@@ -1,0 +1,15 @@
+#tinymce img
+{
+	display: block;
+	margin: auto;
+}
+
+.ui-dialog
+{
+        z-index: 1000 !important;
+}
+
+#wp-auth-check-form
+{
+	display: none !important;
+}

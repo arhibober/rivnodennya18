@@ -1,0 +1,23 @@
+header
+{
+display: none!important;
+}
+
+.newsdesc
+{
+	background-color: #FFFDDC;
+	padding:10px;
+box-sizing:border-box;
+margin:10px 0px;
+width:90%!important;
+}
+
+div.title:nth-child(5)
+{
+display: none !important;
+}
+
+div.post_content:nth-child(7)
+{
+	
+}

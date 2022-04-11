@@ -1,0 +1,10 @@
+/* Image style */
+#scrollUp {
+    background-image: url("../img/back-top.png");
+    bottom: 20px;
+    right: 20px;
+	height: 50px;
+	width: 50px;
+	opacity: 0.8;
+}
+#scrollUp:hover{ opacity: 1; }

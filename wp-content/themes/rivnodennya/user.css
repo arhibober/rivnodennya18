@@ -1,0 +1,113 @@
+@media screen and (min-width: 851px)
+{
+	#primary
+	{
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	#upper_header
+	{
+		background: url("/wp-content/uploads/2015/09/header1-624x111.png") no-repeat scroll right top 33% !important;
+		background-size: 26% !important;
+		min-width: 90% !important;
+		height: 115px !important;
+			margin-top: 0 !important;
+	}
+
+	#back-autor
+	{
+		display: block;
+		font-style: italic;
+		font-size: 22px;
+		float: left;
+		font-weight: bold;
+		position: relative;
+		top: 87px;
+		color: rgb(250, 246, 197);
+		font-family: "Times New Roman",serif;
+	}
+
+	#upper_header_left, #upper_header_center, #upper_header_right, #violette, #yellow
+	{
+		display: none !important;
+	}
+
+	body>a
+	{
+		max-width: 1120px !important;
+		min-width: 90% !important;
+	}
+
+	#slog
+	{
+		font-size: 22px !important;
+		text-align: center !important;
+		top: 90px;
+		float: right !important;
+		width: 26% !important;
+	}
+
+	#page
+	{
+		margin-top: 0 !important;
+	}
+}
+
+@media screen and (max-width: 1500px) and (min-width: 851px)
+{
+	#upper_header
+	{
+		background-size: 33% !important;
+	}
+
+	#slog
+	{
+		font-size: 24px !important;
+		width: 33% !important;
+	}
+
+	#back-autor
+	{
+		font-size: 24px !important;
+	}
+}
+
+@media screen and (max-width: 1300px) and (min-width: 851px)
+{
+	#upper_header
+	{
+		background-size: 38% !important;
+	}
+
+	#slog
+	{
+		font-size: 23px !important;
+		width: 38% !important;
+	}
+
+	#back-autor
+	{
+		font-size: 23px !important;
+	}
+}
+
+@media screen and (max-width: 1100px) and (min-width: 851px)
+{
+	#upper_header
+	{
+		background-size: 70% !important;
+		height: 170px !important;
+	}
+	#slog
+	{
+		font-size: 22px !important;
+		width: 70% !important;
+		top: 145px;
+	}
+
+	#back-autor
+	{
+		display: none !important;
+	}
+}
